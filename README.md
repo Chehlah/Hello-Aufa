@@ -1,3 +1,3 @@
 # Hello-Aufa
 will be
-<how are you?> 
+> how are you?
